@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+
+div {
+    width: 90%;
+    margin: auto;
+    background-color: #80808060;
+    padding: 20px;
+}
+
+img {
+    width: 50%;
+    height: 300px;
+}
+
+button {
+    padding: 10px;
+    border: none;
+    width: 150px;
+}
+
+.btnA {
+    background-color: green;
+}
+
+.btnB {
+    background-color: blue;
+}
+
+.reset {
+    background-color: red;
+}
+
+select {
+    width: 50px;
+    border-radius: 10px;
+}
